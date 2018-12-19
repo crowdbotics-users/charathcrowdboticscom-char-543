@@ -1,0 +1,3 @@
+rootProject.name = 'charathcrowdboticscom_char_543'
+
+include ':app'
